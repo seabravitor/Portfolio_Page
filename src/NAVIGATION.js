@@ -1,13 +1,13 @@
-import React from "react";
+import React, {useEffect, useRef, useState} from "react";
 import { Link, withRouter } from "react-router-dom";
 
 function Navigation(props) {
+
   return (
-    <div class="background">
       <div className="topbar">
               <h2>Vitor Seabra</h2>
               <nav>
-                      {/* <ul>
+                      <ul>
                       <li
                       >
                         <Link to="/">
@@ -31,10 +31,9 @@ function Navigation(props) {
                           About Me
                         </Link>
                       </li>
-                    </ul> */}
+                    </ul>
               </nav>
       </div>
-    </div>
   );
 }
 

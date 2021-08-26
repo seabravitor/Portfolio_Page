@@ -18,25 +18,37 @@ p {
   background-image: url(./Assets/northern-lights-3273425_1920.jpeg);
 }
 
-/* Navigation Bar */ 
+/* Navigation Bar 1 */ 
 
-.sticky {
+
+/* Navigation Bar 2 */ 
+
+.stickybefore{
   position: sticky;
+  background-image: url(./Assets/northern-lights-3273425_1920.jpeg);
   top: 0;
   z-index: 1000;
 }
 
+/* .stickyafter{
+  background-image: url(./Assets/northern-lights-3273425_1920.jpeg);
+  position: sticky;
+  top: 0;
+  z-index: 0;
+} */
+
 .topbar {
   display: flex;
+  position: relative;
   justify-content: space-between;
   align-items: center;
   color: white;
   padding-bottom: 10px;
   margin-left: 40px;
-  padding-top: -500px;
+  /* padding-top: -500px; */
 }
 
-/* .topbar a{
+.topbar a{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -48,7 +60,7 @@ p {
 .topbar ul {
   display: flex;
   list-style: none;
-} */
+}
 
 /* Footer */ 
 
@@ -83,7 +95,7 @@ p {
 /* Intro (Presentation Component) */ 
 
 .intro a img {
-  max-width: 5%;
+  max-width: 4%;
   display: inline-block;
   justify-content: space-between;
   align-items: center;
@@ -95,7 +107,9 @@ p {
 .intro {
   padding-top: 50px;
   color: white;
-  height: 90vh;
+  /* height: 90vh; */
+  height: 815px;
+  z-index: 500;
 }
 
 .intro h1 {
@@ -162,11 +176,11 @@ p {
   justify-content: space-between;
   align-items: center;
   padding: 30px 0.5% 0px 0.5%;
-  max-width: 5%;
+  max-width: 40%;
   height: auto;
 }
 
-.javascript {
+/* .javascript {
   max-width: 3% !important;
   margin-bottom: 0.5%;
 }
@@ -174,7 +188,7 @@ p {
 .typescript {
   max-width: 4% !important;
   margin-bottom: 0.5%;
-}
+} */
 
 /* Projects (PROJECTS Component) */ 
 

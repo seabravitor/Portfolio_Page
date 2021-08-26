@@ -11,7 +11,7 @@ return (
   <div className="App">
     <div class="background">
       <Router>
-          <div class="sticky"><NAVIGATION /></div>
+          <div class="stickybefore"><NAVIGATION /></div>
           <Switch>
             <Route path="/" exact component={() => <PORTFOLIO />} />
             <Route path="/resume" exact component={() => <RESUME/>} /> 
