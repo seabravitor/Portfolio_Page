@@ -11,7 +11,7 @@ function Intro() {
         <h1>Jr. Front-End Developer</h1>
         <h3>Full-Stack JavaScript Bootcamp Graduate</h3>
         <br></br>
-        <p>and a design thinker with startup experience, business oriented, knowledge of agile methodolog and project management.
+        <p>and a design thinker with startup experience, business oriented, knowledge of agile methodology and project management.
         Interest in sustainability, decentralised technologies and innovation.</p>
         <a href="https://github.com/seabravitor" target="_blank" ><img src={github} alt="github_vitor_seabra"/></a>
         <a href="https://www.linkedin.com/in/vitorseabrasansao/" target="_blank"><img src={linkedin} alt="linkedin_vitor_seabra"/></a>
