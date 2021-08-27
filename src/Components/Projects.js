@@ -1,8 +1,8 @@
 import '../App.css';
 import blogcomputer from '../Assets/blogcomputer.png';
 import calculadoraphone from '../Assets/calculadoraphone.png';
-import videoioSwavesapp from "../Assets/wavesappvideo.mp4";
-import videowavesapp from '../Assets/wavesvideo.mp4';
+import videowavesappmp4 from '../Assets/wavesappvideo.mp4';
+import videowavesappgif from '../Assets/wavesappvideo.gif';
 import moreapp from '../Assets/moreapponboardingphone.png';
 import phytongame from '../Assets/phytongame.png'
 
@@ -41,7 +41,7 @@ function Projects() {
                         <p><b>Tools: React Native</b></p>
                         <p><a href="https://github.com/seabravitor/BootCampProjects_WavesForecastApp_ReactNative" target="_blank"><button>View Code</button></a></p>
                     </div>
-                    <video src={videoioSwavesapp} alt="videoapp"></video>
+                    <img src={videowavesappgif}/>
                 </div>
             </div>
 

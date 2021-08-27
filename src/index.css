@@ -6,7 +6,7 @@ body {
   height: 100%;
 }
 
-h1,h2,h3 {
+h1,h2,h3  {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 } 
 
@@ -258,8 +258,8 @@ p {
   opacity: 0.8;
 }
 
-.wavesapp video {
-  min-width: 40%;
+.wavesapp img {
+  max-width: 40%;
   margin: auto
 }
 
