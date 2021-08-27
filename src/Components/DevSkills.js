@@ -10,8 +10,8 @@ import programminglanguages from '../Assets/programminglanguages.png'
 
 function DevSkills() {
     return (            
-        <div class="devskills" id="devskills">
-                <div>
+        <div id="devskills">
+                <div class="devskills">
                     <h1>Development Skills</h1>
                         <div class="grid3devskills">
                             <div>
@@ -50,8 +50,8 @@ function DevSkills() {
                         <img src={react} alt="react"/>
                         <img src={mongodb} alt="mongodb"/>
                         <img src={phyton} alt="phyton"/> */}
-                        <img src={programminglanguages} alt="programminglanguages"/>
                 </div>
+                <div class="devskillslogo"><img src={programminglanguages} alt="programminglanguages"/></div>
         </div>
     )
 }

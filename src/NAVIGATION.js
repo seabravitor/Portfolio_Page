@@ -6,7 +6,7 @@ function Navigation(props) {
   return (
       <div className="topbar">
               <h2>Vitor Seabra</h2>
-              <nav>
+              {/* <nav>
                       <ul>
                       <li
                       >
@@ -32,7 +32,7 @@ function Navigation(props) {
                         </Link>
                       </li>
                     </ul>
-              </nav>
+              </nav> */}
       </div>
   );
 }
