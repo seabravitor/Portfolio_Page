@@ -19,6 +19,7 @@ function DevSkills() {
                                 <div class="shapecolor"></div>
                                 <div class="shapecolor"></div>
                                 <div class="shapecolor"></div>
+                                <div class="shapewhite"></div>
                                 <p><button>HTML</button>
                                 <button>CSS</button></p>
                                 <p><button>Javascript</button></p>
@@ -31,6 +32,7 @@ function DevSkills() {
                                 <div class="shapecolor"></div>
                                 <div class="shapecolor"></div>
                                 <div class="shapewhite"></div>
+                                <div class="shapewhite"></div>
                                 <p><button>React Native</button></p>
                                 <p><button>Express.js</button></p>
                                 <p><button>Node.js</button></p>
@@ -39,6 +41,7 @@ function DevSkills() {
                             <div>
                                 <h2><b>Short Courses</b></h2>
                                 <div class="shapecolor"></div>
+                                <div class="shapewhite"></div>
                                 <div class="shapewhite"></div>
                                 <div class="shapewhite"></div>
                                 <p><button>Phyton</button></p>
