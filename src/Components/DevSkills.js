@@ -24,6 +24,7 @@ function DevSkills() {
                                 <p><button>Javascript</button></p>
                                 <p><button>Typescript</button></p>
                                 <p><button>React</button></p>
+                                <p><button>API</button></p>
                             </div>
                             <div>
                                 <h2><b>Academic Experience</b></h2>
