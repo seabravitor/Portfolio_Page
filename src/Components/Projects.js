@@ -25,6 +25,8 @@ function Projects() {
                         <p><b>Tools: React, Typescript,</b> MongoDB, Google Cloud Platform, StoryBook, Jira, Bitbucket</p>
                         <p><a href="https://apps.apple.com/us/app/moreapp-forms/id839543670" target="_blank"><button>iOS</button></a>
                         <a href="https://play.google.com/store/apps/details?id=com.moreapp&hl=en_US&gl=US" target="_blank"><button>Android</button></a></p>
+                        {/* <a href="https://apps.apple.com/us/app/moreapp-forms/id839543670" target="_blank"><img src={googleplay} alt="googleplay"/></a>
+                        <a href="https://play.google.com/store/apps/details?id=com.moreapp&hl=en_US&gl=US" target="_blank"><img src={applestore} alt="applestore"/></a> */}
                     </div>
                 </div>
             </div>
