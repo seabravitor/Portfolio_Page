@@ -58,7 +58,7 @@ function Work() {
                             <p>As an assistant of production, my role was to support the account managers and the production team with the planning and execution of external projects. Besides digital advertising project, I was often out of the office dealing with suppliers and helping production to execute and control events to assure its sucessful.</p>
                         </div>
                         <div>
-                            <h2>Account Manager.</h2>
+                            <h2>Account Manager</h2>
                             <p><b>Florianópolis, Brazil <br></br>(October 2014 - April 2015)</b></p>
                             <p>As an account manager, I was entirely in charge of 04 accounts and it's external and internal adverstising projects. In contact straight with clients, I found myself often dealing with internal and external negotiations.</p>
                         </div>

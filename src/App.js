@@ -7,11 +7,12 @@ import RESUME from './RESUME'
 import ABOUT from './ABOUT';
 
 function App() {
+
 return (    
   <div className="App">
     <div class="background">
       <Router>
-          <div class="stickybefore"><NAVIGATION /></div>
+          <div class="stickybefore" id='header'><NAVIGATION /></div>
           <Switch>
             <Route path="/" exact component={() => <ABOUT />} />
             <Route path="/resume" exact component={() => <RESUME/>} /> 

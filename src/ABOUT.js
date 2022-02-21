@@ -1,15 +1,12 @@
 import './App.css';
-import Navigation from './NAVIGATION';
 import Intro from './Components/Intro';
 import profilepic2 from './Assets/profilepic2.jpeg'
-import surf1 from './Assets/surf1.jpeg'
 
 function ABOUT() {
     return (        
     <div class="about">           
         <Intro/>
         <div class="grid2about" >
-                {/* <div class="flex1"> */}
                 <div>
                     <h1>Hola!</h1>
                     <p>My name is Vitor ;)</p>

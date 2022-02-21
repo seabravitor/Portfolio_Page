@@ -18,8 +18,6 @@ p {
   background-image: url(./Assets/northern-lights-3273425_1920.jpeg);
 }
 
-/* Navigation Bar 1 */ 
-
 
 /* Navigation Bar 2 */ 
 
@@ -30,13 +28,6 @@ p {
   z-index: 1000;
 }
 
-/* .stickyafter{
-  background-image: url(./Assets/northern-lights-3273425_1920.jpeg);
-  position: sticky;
-  top: 0;
-  z-index: 0;
-} */
-
 .topbar {
   display: flex;
   position: relative;
@@ -45,7 +36,6 @@ p {
   color: white;
   padding-bottom: 10px;
   margin-left: 40px;
-  /* padding-top: -500px; */
 }
 
 .topbar a{
@@ -170,7 +160,6 @@ p {
 .projects button {
   margin-top: 10px;
   margin-right: 10px;
-  /* border: 0.5px solid black; */
   background-color: rgb(223, 230, 232);
   font-size: 1em;
   border-radius: 10%;
@@ -179,7 +168,6 @@ p {
 .projects button:hover {
   margin-top: 10px;
   margin-right: 10px;
-  /* border: 0.5px solid black; */
   background-color: rgba(68, 240, 0, 0.856);
   font-size: 1em;
   border-radius: 10%;
@@ -212,10 +200,6 @@ p {
   margin: auto
 }
 
-/* .backgroundsurf {
-  background-image:url("./Assets/surf3.jpeg")
-} */
-
 .wavesapp video {
   width: 30%;
 }
@@ -233,14 +217,13 @@ p {
 
 .portfolio {
   background-color: rgb(223, 230, 232);
-  /* background-image: url("Assets/squaregrid.jpeg"); */
   background-size:15%;
   z-index: -100;
 }
 
 .softskills {
   padding:100px 0 50px 0;
-  /* margin: 0 15px 0 15px; */
+  margin: 0 15px 0 15px;
   background: linear-gradient(white, rgb(223, 230, 232));
   opacity: 0.98;
   letter-spacing: 0.02em;
@@ -259,9 +242,9 @@ p {
 
 /* Work (Work Component) */ 
 
-/* .work {
+.work {
   margin: 0 15px 0 15px;
-} */
+}
 
 .text {
   margin-left: 150px;
@@ -272,7 +255,6 @@ p {
 }
 
 .transperfect {
-  /* background: linear-gradient(white, rgb(197, 200, 216),white); */
   padding-top: 10px;
   opacity: 0.95;
 }
@@ -283,7 +265,6 @@ p {
 }
 
 .moreapp {
-  /* background: linear-gradient(white, rgb(182, 212, 212),white); */
   padding-top: 70px;
   opacity: 0.95;
 }
@@ -301,7 +282,6 @@ p {
 }
 
 .propague {
-  /* background: linear-gradient(white,rgb(240, 222, 222),white); */
   padding-top: 70px;
   opacity: 0.95;
 }
@@ -318,7 +298,6 @@ p {
 }
 
 .restoque {
-  /* background: linear-gradient(white,rgb(226, 225, 225), white); */
   background: linear-gradient(rgb(223, 230, 232),white);
   color:black;
   padding-top: 70px;
@@ -394,13 +373,6 @@ p {
   margin: 0px 50px 0 50px;
 }
 
-/* .grid2wavesapp {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 8em;
-  padding: 0px 50px 0 50px;
-} */
-
 .blog {
 
 }
@@ -419,7 +391,6 @@ p {
 /* ------------- ABOUT ------------*/
 
 .about {
-  /* background-image: url(./Assets/northern-lights-3273425_1920.jpeg); */
   color: black
 }
 
@@ -462,33 +433,6 @@ p {
 
 /* About (Personal Component) */ 
 
-/* .flex1{
-  background: linear-gradient(rgb(215, 219, 209) ,rgb(223, 230, 232) );
-  display:flex;
-  padding: 50px 10px 100px 10px;
-  justify-content: center;
-}
-
-.flex1 img {
-  width: 30%;
-  height: auto;
-  padding-left: 20%;
-}
-
-.flex2 {
-  background-color: rgb(223, 230, 232);
-  display:flex;
-  padding: 50px 10px 100px 10px;
-  justify-content: center;
-  
-}
-
-.flex2 img {
-  width: 50%;
-  height: auto;
-  padding-right: 10%;
-} */
-
 .grid2about {
   background-color: rgb(215, 219, 209);
   display: grid;
@@ -501,10 +445,5 @@ p {
 
 .profilepic {
   width: 60%;
-  height: auto;
-}
-
-.picsurf {
-  width: 100%;
   height: auto;
 }

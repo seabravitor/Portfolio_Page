@@ -1,7 +1,7 @@
 import '../App.css';
 import github from '../Assets/github_purple.png'
 import linkedin from '../Assets/linkedin1.png'
-import curriculo from '../Assets/curriculo_dev.pdf'
+import curriculo from '../Assets/curriculo.pdf'
 
 
 function Intro() {

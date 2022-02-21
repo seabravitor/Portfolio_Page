@@ -1,11 +1,4 @@
 import '../App.css';
-// import html from '../Assets/html.png'
-// import javascript from '../Assets/javascript.png'
-// import typescript from '../Assets/typescript.png'
-// import css from '../Assets/css.png'
-// import react from '../Assets/react.png'
-// import phyton from '../Assets/phyton.png'
-// import mongodb from '../Assets/mongoDB.png'
 import programminglanguages from '../Assets/programminglanguages.png'
 
 function DevSkills() {
@@ -48,13 +41,6 @@ function DevSkills() {
                                 <p><button>Blockchain</button></p>
                             </div>
                         </div>
-                        {/* <img src={html} alt="html"/>
-                        <img src={css} alt="css"/>
-                        <img src={javascript} alt="javascript" class="javascript"/>
-                        <img src={typescript} alt="typescript" class="typescript"/>
-                        <img src={react} alt="react"/>
-                        <img src={mongodb} alt="mongodb"/>
-                        <img src={phyton} alt="phyton"/> */}
                 </div>
         </div>
     )

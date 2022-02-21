@@ -1,9 +1,9 @@
 import '../App.css';
+import appstore from '../Assets/appstore.png';
+import googlestore from '../Assets/googleplay.png';
 import blogcomputer from '../Assets/blogcomputer.png';
 import calculadoraphone from '../Assets/calculadoraphone.png';
-import videowavesappmp4 from '../Assets/wavesappvideo.mp4';
 import videowavesappgif from '../Assets/wavesappvideo.gif';
-// import videowavesappgif from '../Assets/wavesappvideoback.gif';
 import moreapp from '../Assets/moreapponboardingphone.png';
 import phytongame from '../Assets/phytongame.png'
 
@@ -20,11 +20,11 @@ function Projects() {
                         <p>MoreApp is a Saas company with users in more than 140 countries, using its solution to digitise processes through digital forms via app and web.</p>
                         <p>The new application will be released with a new interface, several improvements and new features.</p>
                         <br></br> 
-                        <p><b>Tools: React, Typescript,</b> MongoDB, Google Cloud Platform, StoryBook, Jira, Bitbucket</p>
+                        <p><b>Tools: React, Typescript, MongoDB, Google Cloud Platform, StoryBook, Jira, Bitbucket</b></p>
                         <p><a href="https://apps.apple.com/us/app/moreapp-forms/id839543670" target="_blank"><button>iOS</button></a>
                         <a href="https://play.google.com/store/apps/details?id=com.moreapp&hl=en_US&gl=US" target="_blank"><button>Android</button></a></p>
-                        {/* <a href="https://apps.apple.com/us/app/moreapp-forms/id839543670" target="_blank"><img src={googleplay} alt="googleplay"/></a>
-                        <a href="https://play.google.com/store/apps/details?id=com.moreapp&hl=en_US&gl=US" target="_blank"><img src={applestore} alt="applestore"/></a> */}
+                        {/* <a href="https://apps.apple.com/us/app/moreapp-forms/id839543670" target="_blank"><img src={googlestore} alt="googleplay"/></a>
+                        <a href="https://play.google.com/store/apps/details?id=com.moreapp&hl=en_US&gl=US" target="_blank"><img src={appstore} alt="applestore"/></a> */}
                     </div>
                 </div>
             </div>
