@@ -7,7 +7,7 @@ import Additional from './Components/Additional';
 
 function PORTFOLIO() {
     return (
-    <div>
+    <div class="portfolio">
         <SoftSkills/>
         <Work/>
         <Academic/>

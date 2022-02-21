@@ -12,7 +12,7 @@ function DevSkills() {
     return (            
         <div id="devskills">
                 <div class="devskills">
-                    <h1>Development Skills</h1>
+                <div><img src={programminglanguages} alt="programminglanguages"/></div>
                         <div class="grid3devskills">
                             <div>
                                 <h2><b>Work Experience</b></h2>
@@ -24,7 +24,7 @@ function DevSkills() {
                                 <button>CSS</button></p>
                                 <p><button>Javascript</button></p>
                                 <p><button>Typescript</button></p>
-                                <p><button>React</button></p>
+                                <p><button>React.js</button></p>
                                 <p><button>API</button></p>
                             </div>
                             <div>
@@ -45,6 +45,7 @@ function DevSkills() {
                                 <div class="shapewhite"></div>
                                 <div class="shapewhite"></div>
                                 <p><button>Phyton</button></p>
+                                <p><button>Blockchain</button></p>
                             </div>
                         </div>
                         {/* <img src={html} alt="html"/>
@@ -55,7 +56,6 @@ function DevSkills() {
                         <img src={mongodb} alt="mongodb"/>
                         <img src={phyton} alt="phyton"/> */}
                 </div>
-                <div class="devskillslogo"><img src={programminglanguages} alt="programminglanguages"/></div>
         </div>
     )
 }

@@ -11,7 +11,7 @@ function SoftSkills() {
              <div>
                 <img src={techpass} alt="techpass"/>
                 <h3>Tech Passionated</h3>
-                <p>Enthusiastic about new technologies. Always seeking to be updated.</p>
+                <p>Enthusiastic about new technologies. Always seeking to learn and be up to date with market trends.</p>
             </div>
             <div>
                 <img src={analytic} alt="analytic"/>

@@ -8,9 +8,8 @@ import DevSkills from './Components/DevSkills';
 function PORTFOLIO() {
     return (
     <div>
-        <Intro/>
-        <DevSkills/>
         <Projects/>
+        <DevSkills/>
     </div>
     )
 }

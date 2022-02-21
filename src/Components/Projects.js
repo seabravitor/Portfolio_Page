@@ -3,16 +3,14 @@ import blogcomputer from '../Assets/blogcomputer.png';
 import calculadoraphone from '../Assets/calculadoraphone.png';
 import videowavesappmp4 from '../Assets/wavesappvideo.mp4';
 import videowavesappgif from '../Assets/wavesappvideo.gif';
+// import videowavesappgif from '../Assets/wavesappvideoback.gif';
 import moreapp from '../Assets/moreapponboardingphone.png';
 import phytongame from '../Assets/phytongame.png'
 
 function Projects() {
     return (            
     <div class="projects" id='projects'>
-
-        <h1>Portfolio</h1>
-
-            <div class="moreapp">
+            <div class="moreappacad">
                 <div class="grid2projects" >
                     <img src={moreapp} alt="moreapp"/>
                     <div>

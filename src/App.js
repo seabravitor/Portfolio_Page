@@ -13,9 +13,9 @@ return (
       <Router>
           <div class="stickybefore"><NAVIGATION /></div>
           <Switch>
-            <Route path="/" exact component={() => <PORTFOLIO />} />
+            <Route path="/" exact component={() => <ABOUT />} />
             <Route path="/resume" exact component={() => <RESUME/>} /> 
-            <Route path="/about" exact component={() => <ABOUT />} />
+            <Route path="/projects" exact component={() => <PORTFOLIO />} />
         </Switch>
         <FOOTER />
       </Router>
