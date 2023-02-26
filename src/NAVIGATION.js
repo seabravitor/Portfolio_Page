@@ -1,4 +1,4 @@
-import React, {useEffect, useRef, useState} from "react";
+import React from "react";
 import { Link, withRouter } from "react-router-dom";
 
 function Navigation(props) {

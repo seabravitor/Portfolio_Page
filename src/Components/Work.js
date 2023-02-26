@@ -23,7 +23,7 @@ function Work() {
         <div class="moreapp">
             <div class="text">
                             <div>
-                                <a href="https://moreapp.com/en/" target="_blank" ><img class="moreappicon" src={moreappLogo} alt=""/></a>
+                                <a href="https://moreapp.com/en/"><img class="moreappicon" src={moreappLogo} alt=""/></a>
                                 <div class='grid3moreapp'>
                                     <div>
                                         <h2>Jr. Front-End Developer</h2>
@@ -50,7 +50,7 @@ function Work() {
 
                 <div class="propague">
                 <div class="text">
-                <a href="https://docsync.com.br/" target="_blank" ><img src={propague} alt="Logo Propague Doc Sync"/></a>
+                <a href="https://docsync.com.br/"><img src={propague} alt="Logo Propague Doc Sync"/></a>
                     <div class='grid2propague'>
                         <div>
                             <h2>Assistant of Production</h2>
@@ -69,7 +69,7 @@ function Work() {
 
             <div class="restoque">
                 <div class="text">
-                <a href="https://www.restoque.com.br/" target="_blank" ><img src={restoque} alt=""/></a>
+                <a href="https://www.restoque.com.br/"><img src={restoque} alt=""/></a>
                     <h2>Sales Manager</h2>
                     <p><b>Florianópolis, Brazil<br></br>(September 2015 - February 2016)</b></p>
                     <p>At one of the group many brands, I've got the oportunity to lead a small team (6) at John John store to beat, team's and invidual targets, while keeping a health work environment. My main tasks were stock management, store display, sales, cashier and conflict management </p>

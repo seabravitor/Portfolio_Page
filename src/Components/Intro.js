@@ -16,8 +16,8 @@ function Intro() {
         <br></br>
         <p>and a business oriented design thinker by nature, with agile methodology and project management experience in startup and corporation enviroment.
         Interest in sustainability, decentralised technologies and innovation.</p>
-        <a href="https://github.com/seabravitor" target="_blank" ><img src={github} alt="github_vitor_seabra"/></a>
-        <a href="https://www.linkedin.com/in/vitorseabrasansao/" target="_blank"><img src={linkedin} alt="linkedin_vitor_seabra"/></a>
+        <a href="https://github.com/seabravitor"><img src={github} alt="github_vitor_seabra"/></a>
+        <a href="https://www.linkedin.com/in/vitorseabrasansao/"><img src={linkedin} alt="linkedin_vitor_seabra"/></a>
         <p><a href={curriculo} download="CV_Vitor_Seabra">--> Download CV</a></p>
     </div>
     )
