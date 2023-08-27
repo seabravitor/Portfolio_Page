@@ -1,7 +1,7 @@
 import '../App.css';
 import blogcomputer from '../Assets/blogcomputer.png';
 import calculadoraphone from '../Assets/calculadoraphone.png';
-import videowavesappgif from '../Assets/wavesappvideo.gif';
+import videowavesappgif from '../Assets/wavesapp_video.gif';
 import moreapp from '../Assets/moreapponboardingphone.png';
 import phytongame from '../Assets/phytongame.png'
 
@@ -32,9 +32,9 @@ function Projects() {
                     <div class="backgroundsurf">
                         <h2>Ripple Waves Forecast - Mobile Application</h2>
                         <p><b>Android and iOS (not available for download)</b></p>
-                        <p>Application developed as mobile final project for the react native part of the Full Stack Bootcamp.</p>
+                        <p>Application developed as mobile final project for the React native part of the Full-Stack Bootcamp.</p>
                         <p>With Ripple Waves Forecast application you can find out how are the weather and the waves on your current location or any other city in the world.</p>
-                        <p>For the location we use a Google Places API (https://developers.google.com/maps/documentation/places/web-service/search) and to obtain its forecast we run the StormGlass API (https://stormglass.io/).</p>
+                        <p>For the location I have used a Google Places API (https://developers.google.com/maps/documentation/places/web-service/search) and to the wather forecast from the StormGlass API (https://stormglass.io/).</p>
                         <br></br> 
                         <p><b>Framework:</b> React Native</p>
                         <p><a href="https://github.com/seabravitor/BootCampProjects_WavesForecastApp_ReactNative"><button>View Code</button></a></p>
