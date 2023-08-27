@@ -1,7 +1,7 @@
 import '../App.css';
 import github from '../Assets/github_purple.png'
 import linkedin from '../Assets/linkedin1.png'
-import curriculo from '../Assets/curriculo.pdf'
+import curriculo from '../Assets/curriculo_updated.pdf'
 
 
 function Intro() {
@@ -21,6 +21,6 @@ function Intro() {
         <p><a href={curriculo} download="CV_Vitor_Seabra">--> Download CV</a></p>
     </div>
     )
-}
+    }
 
 export default Intro;
