@@ -1,5 +1,5 @@
 import '../App.css';
-import github from '../Assets/github_purple.png'
+import github from '../Assets/github-logo.png'
 import linkedin from '../Assets/linkedin1.png'
 import curriculo from '../Assets/curriculo.pdf'
 import curriculo_vitae from '../Assets/curriculum-vitae.png'
