@@ -10,17 +10,14 @@ function ABOUT() {
                 <div>
                     <h1>Hola!</h1>
                     <p>My name is Vitor ;)</p>
-                    <p>Born in 1994 and proudly raised in Brazil but for the last 5 years falling everyday in love with Barcelona city.</p>
+                                        
+                    <p>Originally from Brazil and currently based in Spain, my background combines business and technology. I hold a degree in Business Administration and a 2:1 honors Master's in Digital Transformation Leadership. Most recently, I attended a Full-Stack JavaScript Bootcamp to enhance my tech and programming skills, gaining firsthand experience as a front-end developer.</p>                    
                     
-                    <p>Background in Business Administration with a master of 2:1 honor degree in Digital Transformation Leadership and most recently I have attended to a Full-Stack Javascript Bootcamp to level up my tech/programming skills and get a firsthand experience as a front-end developer.</p>
+                    <p>I’ve tackled challenges across Advertising, Retail, and SaaS, bringing over 6 years of experience in digital products, as business developer and product manager. My focus is on collaborating with cross-functional teams to design and deploy solutions, run A/B tests, and implement go-to-market strategies.</p>
+                                        
+                    <p>With a blend of analytical thinking, empathy, and relentless curiosity, I’m passionate about leveraging technology to build businesses that are not just scalable but also sustainable and meaningful.</p>
                     
-                    <p>I've got the opportunity to experience challenges among different industries, such as Advertising Agencies, Retail, and SaaS companies.</p>
-                    
-                    <p>With 5+ years of experience in business development and product management, I'm ready to collaborate and engage cross-functional teams in order to design and deploy solutions, perform A/B tests, and implement go-to-market strategies.</p>
-                    
-                    <p>With a mix of an analytical and empathetic personality, together with my constant curiosity, I'm totally sold on the idea of using technology to build businesses that are not just scalable but sustainable and meaningful too.</p>
-                    
-                    <p>Furthermore, I'm a bit of a sports nut – love the thrill. And find very difficult to refuse a beer and billiards invitation after work 🍻🎱</p>
+                    <p>Outside of work, I’m a sports enthusiast who thrives on competition—and I find it pretty hard to turn down a beer and a game of billiards after work. 🍻🎱</p>
 
                 </div>
                 <img class="profilepic" src={profilepic2} alt="Vitor Seabra Graduation Pic"/>

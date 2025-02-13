@@ -6,17 +6,21 @@ function Additional() {
                 <div class="grid2additional">
                 <div>
                     <h2>Languages</h2>
-                        <p>🇧🇷 <b>Portuguese:</b> Native (C2)</p>
-                        <p>🇺🇸 <b>English:</b> Advanced (C1)</p> 
-                        <p>🇪🇸 <b>Spanish:</b> Intermediary (B2)</p> 
+                        <p><b>Portuguese:</b>Native (C2)</p>
+                        <p><b>English:</b> Advanced (C1)</p> 
+                        <p><b>Spanish:</b> Advanced (C1)</p> 
+                        <p><b>Catalan:</b> Basic (A2)</p> 
                     <br></br>
                     <br></br>
                     <br></br>
                     <h2>Certificates</h2>
-                        <p>English for Business - Embassy School</p>
-                        <p>Phyton for Beginners - Curso em Video</p>
-                        <p>Business Analyst - Udemy</p>
-                        <p>Agile Methodologies and Scrum for PSPO I - Udemy</p>
+                    <p>Professional Scrum Product Owner - <b>Scrum Organization</b></p>  
+                    <p>AI Product Manager Professional - <b>IBM</b></p>  
+                    <p>Brand and Product Management - <b>IE University</b></p>  
+                    <p>Intermediate Python 3, Mundo 2 - <b>Curso em Vídeo</b></p>  
+                    <p>HTML5, CSS3, JavaScript: Build 7 Projects - <b>Udemy</b></p>  
+                    <p>Product Discovery Process - <b>Udemy</b></p>  
+                    <p>Software Architecture & System Design - <b>Udemy</b></p>
                 </div>
                 {/* <div class="certificates">
                     <h2>Certificates</h2>                  
@@ -27,26 +31,26 @@ function Additional() {
                     <p>React Native</p> 
                 </div> */}
                 <div>
+                <h2>Hard skills</h2>
+                    <p>Agile & Scrum<br></br>  
+                    Backlog Management<br></br>  
+                    Business Strategy<br></br>  
+                    Product Discovery<br></br>  
+                    Product Design<br></br>  
+                    Product Release Plan<br></br>   
+                    Product Vision<br></br>  
+                    Stakeholder Engagement<br></br>  
+                    SEO/SEM<br></br>
+                    HTML & CSS<br></br>  
+                    JavaScript<br></br>  
+                    React.js<br></br>  
+                    React Native<br></br>  
+                    REST API</p>
+                    <br></br>
                 <h2>Volunteer Work</h2>
-                        <div>
-                        <p><b>Lifeguard</b></p>
-                        <p><i>Corpo de bombeiros de Santa Catarina - Florianópolis, Brazil</i></p>
-                        <p><i>(Nov 15 - Mar 16 / Nov 17 - Feb 18)</i></p>
-                        </div>
-
-                        <div>
-                        <p><b>Hostel Staff</b></p>
-                        <p><i>Casa d' Alagoa - Faro, Portugal</i></p>
-                        <p><i>(Apr 18 - Jun 18)</i></p>
-                        <p><i>Fabrizzio's Petit - Barcelona, Spain</i></p>
-                        <p><i>(Sep 18)</i></p>
-                        </div>
-
-                        <div>
-                        <p><b>Content Manager Workshop</b></p> 
-                        <p><i>4YFN - 4 Years from Now</i></p>
-                        <p><i>(Fev 19)</i></p>
-                        </div>
+                        <p><b>Lifeguard</b> - Corpo de bombeiros de Santa Catarina, Florianópolis, Brazil</p>
+                        <p><b>Hostel Staff</b> - Casa d' Alagoa, Faro, Portugal | Fabrizzio's Petit, Barcelona, Spain</p>
+                        <p><b>Content Manager Workshop</b> - 4YFN (4 Years from Now)</p>
                 </div>
             </div>
         </div>

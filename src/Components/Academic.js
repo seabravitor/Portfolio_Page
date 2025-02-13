@@ -30,7 +30,8 @@ function Academic() {
                     <h2>Master Degree - Digital Transformation Leadership </h2>
                     <h4>Universitat de Barcelona<br></br>Barcelona, Spain<br></br>(Oct 18/Jul 19)</h4>
                 </div>
-                <p class="box2">In a nutshell, we worked trough real use cases, the challenges and different approaches each industry is facing and adapting in order to keep delivering the most value to it´s customers. Digital transformation goes beyond the implementation of technology, it's a cultural change that requires organizations to continually challenge the status quo.
+                <p class="box2">
+                Digital transformation is the integration of technology into all areas of a business, resulting in fundamental changes to how businesses operate and how they deliver value to customers. Beyond that, it's not only about implementing technology, it's a cultural change that requires organizations to continually challenge the status quo, experiment often, and get comfortable with failure.
                 <br></br> 
                 <br></br>
                 <br></br>
@@ -45,7 +46,7 @@ function Academic() {
                     <h2>Bachelor Degree - Business Administration </h2>
                     <h4>Universidade do Sul de Santa Catarina<br></br>Florianópolis, Brazil<br></br>(Mar 14/Mar 18)</h4>
                 </div>
-                <p class="box2">Bachelor degree course where its aim was on acquiring the basis knowledge about major professional areas - such as marketing, finance, accounting, human resources and operations - for an effective business management.
+                <p class="box2">A bachelor's degree program focused on building foundational knowledge across key business areas—marketing, finance, accounting, human resources, and operations—to support effective business management.
                 <br></br> 
                 <br></br>
                 <br></br>
